@@ -9,7 +9,7 @@
   <div class="row-span-5 ...">
  <div class="m-5">
         <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-    <img class="object-cover w-full rounded-t-lg h-100 md:h-100  md:w-56 md:rounded-none md:rounded-l-lg" img src="public/pictures/hahfgg.jpg" style="float:left;" margin="0 8px 4px 0">
+    <img class="object-cover w-full rounded-t-lg h-100 md:h-100  md:w-56 md:rounded-none md:rounded-l-lg" img src="src/assets/pictures/hahfgg.jpg" style="float:left;" margin="0 8px 4px 0">
             <div class="flex flex-col justify-between p-0 leading-normal">
 
     <center><h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">This My Name</h5></center>
@@ -23,7 +23,7 @@
   <div class="row-span-2 col-span-2 ..."><br><br>
       <div class="m-3">
         <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-    <img class="object-cover w-full rounded-t-lg h-100 md:h-100  md:w-56 md:rounded-none md:rounded-l-lg h-auto max-w-lg ml-auto" img src="public/pictures/smk.png" style="float:left;" margin="0 8px 4px 0">
+    <img class="object-cover w-full rounded-t-lg h-100 md:h-100  md:w-56 md:rounded-none md:rounded-l-lg h-auto max-w-lg ml-auto" img src="src/assets/pictures/smk.png" style="float:left;" margin="0 8px 4px 0">
             <div class="flex flex-col justify-between p-1 leading-normal">
 
     <center><h5 class="mb-0 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">This is my school ,Smk Assalaam Bandung</h5></center>
